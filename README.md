@@ -57,7 +57,7 @@ Created an interactive dashboard to visualize:
 
 <img width="613" height="340" alt="image" src="https://github.com/user-attachments/assets/a681560e-4a10-4984-ac98-af478ec98185" >
 
-###💡** Key Skills Demonstrated**
+## 💡 **Key Skills Demonstrated**
 
 Data Cleaning • Exploratory Data Analysis • SQL • MySQL • Python • Pandas • Power BI • Data Visualization • Business Analysis
 

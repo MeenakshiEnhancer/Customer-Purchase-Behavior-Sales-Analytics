@@ -31,13 +31,13 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 ✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders
 
-### <img width="30px" height="30px" alt="image" src="https://github.com/user-attachments/assets/4d698a2d-94ce-483a-b4bf-4513a4af8b26" />Python
+### <img width="20px" height="20px" alt="image" src="https://github.com/user-attachments/assets/4d698a2d-94ce-483a-b4bf-4513a4af8b26" />Python
 
 * Cleaned and prepared the dataset using Pandas and NumPy
 * Performed exploratory data analysis
 * Analyzed customer and purchasing patterns
 
-### 🗄️ SQL
+### <img width="20px" height="20px" alt="image" src="https://github.com/user-attachments/assets/545dabf6-dd1a-4c9a-96f5-09b783200109" />SQL
 
 * Queried the data using MySQL
 * Performed filtering, grouping, aggregation, and business analysis
@@ -57,7 +57,7 @@ Created an interactive dashboard to visualize:
 
 <img width="613" height="340" alt="image" src="https://github.com/user-attachments/assets/a681560e-4a10-4984-ac98-af478ec98185" >
 
-💡 Key Skills Demonstrated
+###💡 Key Skills Demonstrated
 
 Data Cleaning • Exploratory Data Analysis • SQL • MySQL • Python • Pandas • Power BI • Data Visualization • Business Analysis
 

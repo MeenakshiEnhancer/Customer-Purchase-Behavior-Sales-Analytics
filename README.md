@@ -31,7 +31,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 ✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders
 
-### 🐍 Python
+### <img width="30px" height="30px" alt="image" src="https://github.com/user-attachments/assets/4d698a2d-94ce-483a-b4bf-4513a4af8b26" />Python
 
 * Cleaned and prepared the dataset using Pandas and NumPy
 * Performed exploratory data analysis
